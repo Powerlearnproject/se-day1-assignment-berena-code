@@ -215,7 +215,7 @@ Strategies to Overcome:
  Allocate time for code refactoring in project schedules.
  Perform regular code reviews to ensure maintainability.
 
-5. Communicating with Non-Technical Stakeholders 🗣
+5. Communicating with Non-Technical Stakeholders 
 Challenge:
 Explaining technical concepts to managers, clients, or users who lack technical knowledge.
 Miscommunication can lead to unrealistic expectations.
@@ -243,7 +243,7 @@ Strategies to Overcome:
  Take breaks, exercise, and maintain a healthy work-life balance.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-1. Unit Testing 🧩
+1. Unit Testing 
 Focuses on testing individual components (units) of code, such as functions, classes, or modules.
 Typically performed by developers using frameworks like JUnit (Java), PyTest (Python), or Jest (JavaScript).
 
@@ -300,23 +300,23 @@ What is Prompt Engineering?
 Prompt engineering is the practice of designing and optimizing input prompts to achieve the best possible responses from AI models like ChatGPT. It involves structuring queries in a way that guides the AI to generate accurate, relevant, and useful responses.
 
 Importance of Prompt Engineering in AI Interactions
- 1. Improves Response Accuracy 🎯
+ 1. Improves Response Accuracy 
 Well-crafted prompts help AI understand the intent and provide precise answers.
 Example: Instead of asking, "Tell me about space," a more specific prompt like "Explain how black holes are formed in simple terms" yields a better response.
 
- 2. Enhances AI’s Efficiency & Usability ⚡
+ 2. Enhances AI’s Efficiency & Usability 
 Clear prompts reduce unnecessary back-and-forth communication.
 Helps businesses, developers, and researchers automate tasks effectively.
 
- 3. Customizes AI Behavior 🤖
+ 3. Customizes AI Behavior 
 Different prompting techniques allow users to adjust AI tone, detail level, or complexity.
 Example: "Explain blockchain to a 10-year-old" vs. "Provide a technical breakdown of blockchain consensus mechanisms."
 
- 4. Solves Complex Problems 🔍
+ 4. Solves Complex Problems 
 AI models can assist in coding, content generation, data analysis, and more when given structured prompts.
 Example: "Generate Python code for a web scraper that collects news articles."
 
- 5. Reduces AI Bias & Misinterpretations 🚨
+ 5. Reduces AI Bias & Misinterpretations 
 Thoughtful prompts can mitigate biases and ensure more neutral, diverse, and ethical responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
