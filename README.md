@@ -328,3 +328,5 @@ Why is the Improved Prompt More Effective?
 More Specific – Instead of a broad topic (technology), it focuses on AI in healthcare.
 Clear Intent – Specifies what aspect of AI to discuss (diagnostics, treatment, and patient care).
 Concise & Direct – Eliminates ambiguity, making it easier for AI to generate focused and relevant responses.
+
+** The responses provided in this assignment were generated using artificial intelligence (AI) **
